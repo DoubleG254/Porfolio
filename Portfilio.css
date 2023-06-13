@@ -1,0 +1,45 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  border-bottom: black;
+  font-size: xx-large;
+  justify-content: space-around;
+
+}
+#intro{font-size: xxx-large;
+font-style: italic;justify-content: center;}
+a {
+  font-size: x-large;
+  text-decoration: none;
+  color: yellow
+}
+.body {
+  display: flex;
+  justify-content: space-around;
+
+}
+.about {
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+
+  
+  
+  
+  padding: 20px;
+font-size: large;
+width: 700px;
+  
+}
+img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px
+}
+.soft{padding: 20px;justify-content: center;}
+.sound{padding: 20px;justify-content: center;}
+.foot{padding: 20px;justify-content: center;}
+body{color: gold;background-image:url(image/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700320754.jpg);
+h2{font-weight: 800;font-size: x-large;}
+.cont{display: flex;
+flex-direction: column;}
